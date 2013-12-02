@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ModelDocumentManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Documents>
+    <Document FullPath="C:\Users\Dale\Documents\GitHub\LsMultiClient\LsMultiClient\LsMultiClient.App1\Properties\Client.lsml" Checksum="B64E43625AE07D5EF140785F49EEB5B604BAA27EE7CAE48CD9CBEF6E39612DD9" />
+    <Document FullPath="C:\Users\Dale\Documents\GitHub\LsMultiClient\LsMultiClient\LsMultiClient.App1\Properties\Proxies.lsml" Checksum="F0DBE4EB68ADF7290129FB2CE46C209262D777B86C9D307BF1E32CDA2D781C19" />
+    <Document FullPath="C:\Users\Dale\Documents\GitHub\LsMultiClient\LsMultiClient\LsMultiClient.App1\Screens\App1ItemAddEdit.lsml" Checksum="89928814EBA6F263DB099FAD43760AE553936D96F6035D5898F0095214FE0696" />
+    <Document FullPath="C:\Users\Dale\Documents\GitHub\LsMultiClient\LsMultiClient\LsMultiClient.App1\Screens\App1ItemsBrowse.lsml" Checksum="AD7D10A6781E9B4D1470B2B3557F70621CFCC1E1D6CEC7A21EA926D63A1F8162" />
+  </Documents>
+</ModelDocumentManifest>

@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8D9C8A9D-5DED-4B64-BF65-B598BA549D93}") = "LsMultiClient", "LsMultiClient\LsMultiClient.lsxproj", "{0CC758E0-CBA8-4FCA-9B30-8DFF88E3E688}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LsMultiClient.Server", "LsMultiClient\LsMultiClient.Server\LsMultiClient.Server.csproj", "{E91DD581-8C15-49FA-945C-70FC1F90EA3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LsMultiClient.DesktopClient", "LsMultiClient\LsMultiClient.DesktopClient\LsMultiClient.DesktopClient.csproj", "{4F72E74A-A317-4562-80DD-3D671F4582BC}"
+EndProject
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "LsMultiClient.App1", "LsMultiClient\LsMultiClient.App1\LsMultiClient.App1.jsproj", "{2A886375-56F6-4896-AB00-5AE672FFB172}"
+EndProject
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "LsMultiClient.App2", "LsMultiClient\LsMultiClient.App2\LsMultiClient.App2.jsproj", "{F42AA5F5-2054-4BEA-8BCF-387AC67D8D67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CC758E0-CBA8-4FCA-9B30-8DFF88E3E688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CC758E0-CBA8-4FCA-9B30-8DFF88E3E688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CC758E0-CBA8-4FCA-9B30-8DFF88E3E688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CC758E0-CBA8-4FCA-9B30-8DFF88E3E688}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E91DD581-8C15-49FA-945C-70FC1F90EA3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E91DD581-8C15-49FA-945C-70FC1F90EA3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E91DD581-8C15-49FA-945C-70FC1F90EA3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E91DD581-8C15-49FA-945C-70FC1F90EA3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F72E74A-A317-4562-80DD-3D671F4582BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F72E74A-A317-4562-80DD-3D671F4582BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F72E74A-A317-4562-80DD-3D671F4582BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F72E74A-A317-4562-80DD-3D671F4582BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A886375-56F6-4896-AB00-5AE672FFB172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A886375-56F6-4896-AB00-5AE672FFB172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A886375-56F6-4896-AB00-5AE672FFB172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A886375-56F6-4896-AB00-5AE672FFB172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F42AA5F5-2054-4BEA-8BCF-387AC67D8D67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F42AA5F5-2054-4BEA-8BCF-387AC67D8D67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F42AA5F5-2054-4BEA-8BCF-387AC67D8D67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F42AA5F5-2054-4BEA-8BCF-387AC67D8D67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

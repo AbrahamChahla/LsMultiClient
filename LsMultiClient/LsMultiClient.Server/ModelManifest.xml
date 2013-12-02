@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ModelDocumentManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Documents>
+    <Document FullPath="C:\Users\Dale\Documents\GitHub\LsMultiClient\LsMultiClient\LsMultiClient.Server\DataSources\ApplicationData\App1Items.lsml" Checksum="E2D022703574EF874847AC32D0AA399ADC2BD587A9AA0EB1D44336C7AB74B32D" />
+    <Document FullPath="C:\Users\Dale\Documents\GitHub\LsMultiClient\LsMultiClient\LsMultiClient.Server\DataSources\ApplicationData\App2Items.lsml" Checksum="A044FBF663FD936C7790FA3B74C18A38A6D13C68B669E14AC1EAAE2A81F32113" />
+    <Document FullPath="C:\Users\Dale\Documents\GitHub\LsMultiClient\LsMultiClient\LsMultiClient.Server\Properties\DataSources\ApplicationData.lsml" Checksum="C9007E90610BDB16B02BFA701E17F70EAA51ACD70D7BB658DBA4901EFBFA0129" />
+    <Document FullPath="C:\Users\Dale\Documents\GitHub\LsMultiClient\LsMultiClient\LsMultiClient.Server\Properties\Service.lsml" Checksum="679C78F29C5AF23E9956A773B0E46DF90F7B86CADA0B79571E5896A1C79F5B70" />
+  </Documents>
+</ModelDocumentManifest>

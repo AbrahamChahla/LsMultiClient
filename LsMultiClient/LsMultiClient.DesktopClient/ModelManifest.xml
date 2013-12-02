@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ModelDocumentManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Documents>
+    <Document FullPath="C:\Users\Dale\Documents\GitHub\LsMultiClient\LsMultiClient\LsMultiClient.DesktopClient\Properties\Client.lsml" Checksum="533212A33396157F0A4E8CF37C6DEA314AB0CAD3902487EAF5EA54DBF7B255B4" />
+    <Document FullPath="C:\Users\Dale\Documents\GitHub\LsMultiClient\LsMultiClient\LsMultiClient.DesktopClient\Properties\Proxies.lsml" Checksum="69A4A54EA969970BBCDC8220117BFBF4152CD0EA54CB997DFAE7B0BE9FAE652C" />
+  </Documents>
+</ModelDocumentManifest>
