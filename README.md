@@ -1,3 +1,5 @@
+<h2>LightSwitch 2013 - Multi-HTMLClient Project!</h2>
+
 In this post we will show you how to create a LightSwitch 2013 project that contains multiple HTMLClients.  It’s a pretty exciting development, as we can now create apps for specific areas, Admin vs. Worker, and all share the same data source within a single solution.
 
 A side benefit is app payload.  We can break up large enterprise grade apps into multiple clients thus keeping the individual downloads to a reasonable size.
